@@ -1,5 +1,5 @@
 name: number_formatter
-description: A Flutter package to format numbers with K, M, B suffixes.
+description: A Flutter package to format numbers with K, M, B suffixes example 1000 = 1k, 3600 = 3.6k 100,000 = 100k.
 version: 0.0.2
 repository: https://github.com/Big1050/number_formatter.git
 homepage: https://appsmanager.tech/
