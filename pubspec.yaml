@@ -1,6 +1,6 @@
 name: number_formatter
 description: A Flutter package to format numbers with K, M, B suffixes.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/Big1050/number_formatter.git
 homepage: https://appsmanager.tech/
 
